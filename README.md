@@ -1,7 +1,6 @@
 # Introducción
-Este proyecto se corresponde con la práctica de sistemas operativos, de la Universisad de La Coruña. 
-Se ha desarrollado un intérprete de comandos similar a **bash** con el fin de comprender la estructura de ejecutables de linux un memoria.
-Los siguientes comandos están disponibles:
+Este proyecto se corresponde con la práctica de sistemas operativos, de la Universisad de La Coruña. Se ha desarrollado un intérprete de comandos similar a *bash* con el fin de aprender a interactuar con el sistema operativo *linux* a bajo nivel. Los siguientes comandos están disponibles:
+
 - exit
 - fin
 - end
@@ -34,7 +33,10 @@ Los siguientes comandos están disponibles:
 - clearjobs
 
 # Instalación
-Simplemente ejecuta make, la aplicación resultante será **shell**.
+Ejecuta make, la aplicación resultante será: **shell**
 ```
 $ make
 ```
+
+# TODO
+Implementar el comando help
